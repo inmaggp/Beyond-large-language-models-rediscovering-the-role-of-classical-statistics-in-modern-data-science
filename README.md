@@ -3,3 +3,4 @@ This repository includes the dataset used in the article presented at the IEEE W
 - dataset.xlsx contains the set of 90 texts with all the classification scores provided by each combination of model-hypothesis-topic
 - DOE.xlsx contains all the results of the experimental design of repeated measures with three within-subject factors and one between-subject factor.
 - Residuals.pdf contains the graphical representation of the residuals of all the 3x4x3=36 different combinations of the levels of the within-subject factors.
+- Plots.zip contains the analysis of the dependent variable for each of the 108 different scenarios (Model=3 X Hypothesis=4 X Topic=3 X Generator=3)
